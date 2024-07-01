@@ -1,3 +1,3 @@
 Calculator App 
 
-Creada con React
+Created using React
